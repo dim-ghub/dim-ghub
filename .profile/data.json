@@ -1,0 +1,976 @@
+{
+ "key": "86a23f79",
+ "stars": 133,
+ "contributions": 1183,
+ "repos": 84,
+ "followers": 45,
+ "languages": [
+  [
+   "Python",
+   504458
+  ],
+  [
+   "CSS",
+   471882
+  ],
+  [
+   "Java",
+   282936
+  ],
+  [
+   "JavaScript",
+   238773
+  ],
+  [
+   "C++",
+   218182
+  ],
+  [
+   "Lua",
+   34642
+  ],
+  [
+   "GLSL",
+   24923
+  ]
+ ],
+ "days": [
+  [
+   {
+    "c": 0,
+    "day": 4,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 5,
+    "today": false
+   },
+   {
+    "c": 1,
+    "day": 6,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 7,
+    "today": false
+   },
+   {
+    "c": 1,
+    "day": 8,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 9,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 10,
+    "today": false
+   }
+  ],
+  [
+   {
+    "c": 1,
+    "day": 11,
+    "today": false
+   },
+   {
+    "c": 3,
+    "day": 12,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 13,
+    "today": false
+   },
+   {
+    "c": 1,
+    "day": 14,
+    "today": false
+   },
+   {
+    "c": 1,
+    "day": 15,
+    "today": false
+   },
+   {
+    "c": 6,
+    "day": 16,
+    "today": false
+   },
+   {
+    "c": 11,
+    "day": 17,
+    "today": false
+   }
+  ],
+  [
+   {
+    "c": 23,
+    "day": 18,
+    "today": false
+   },
+   {
+    "c": 7,
+    "day": 19,
+    "today": false
+   },
+   {
+    "c": 4,
+    "day": 20,
+    "today": false
+   },
+   {
+    "c": 11,
+    "day": 21,
+    "today": false
+   },
+   {
+    "c": 16,
+    "day": 22,
+    "today": false
+   },
+   {
+    "c": 3,
+    "day": 23,
+    "today": true
+   },
+   null
+  ]
+ ],
+ "streak": {
+  "current": 10,
+  "longest": 17
+ },
+ "pins": [
+  {
+   "name": "Atlas",
+   "url": "https://github.com/AstraSuite/Atlas",
+   "text": "Native Caelestia File Manager",
+   "fork": false,
+   "stars": 26,
+   "language": "QML",
+   "topics": []
+  },
+  {
+   "name": "midnight-shell",
+   "url": "https://github.com/dim-ghub/midnight-shell",
+   "text": "Basically Caelestia+",
+   "fork": true,
+   "stars": 207,
+   "language": "QML",
+   "topics": []
+  },
+  {
+   "name": "Airlock",
+   "url": "https://github.com/AstraSuite/Airlock",
+   "text": "A beautiful m3expressive greetd frontend based on Caelestia",
+   "fork": false,
+   "stars": 49,
+   "language": "QML",
+   "topics": []
+  }
+ ],
+ "all": [
+  {
+   "name": "midnight-shell",
+   "url": "https://github.com/dim-ghub/midnight-shell",
+   "text": "Basically Caelestia+",
+   "fork": true,
+   "stars": 207,
+   "language": "QML",
+   "topics": []
+  },
+  {
+   "name": "Withdrawal",
+   "url": "https://github.com/dim-ghub/Withdrawal",
+   "text": "A multi instance launcher for the Roblox for Linux runtime Sober.",
+   "fork": false,
+   "stars": 26,
+   "language": "Python",
+   "topics": [
+    "linux",
+    "roblox",
+    "sober",
+    "sober-linux"
+   ]
+  },
+  {
+   "name": "ToiletPaper",
+   "url": "https://github.com/dim-ghub/ToiletPaper",
+   "text": "Cleanse CachyOS and return to a pristine, vanilla Arch Linux system.",
+   "fork": false,
+   "stars": 16,
+   "language": "Shell",
+   "topics": [
+    "arch-linux",
+    "archlinux",
+    "bash",
+    "cachyos",
+    "cli",
+    "debloat",
+    "linux",
+    "pacman",
+    "shell-script",
+    "sysadmin"
+   ]
+  },
+  {
+   "name": "midnight-cli",
+   "url": "https://github.com/dim-ghub/midnight-cli",
+   "text": "The main control script for the Caelestia dotfiles",
+   "fork": true,
+   "stars": 14,
+   "language": "Python",
+   "topics": []
+  },
+  {
+   "name": "Bibata-Caelestia",
+   "url": "https://github.com/dim-ghub/Bibata-Caelestia",
+   "text": "Open source, compact, and material designed cursor set.",
+   "fork": true,
+   "stars": 12,
+   "language": "Python",
+   "topics": []
+  },
+  {
+   "name": "Caelestia-Grub",
+   "url": "https://github.com/dim-ghub/Caelestia-Grub",
+   "text": "A grub theme generator for Caelestia",
+   "fork": false,
+   "stars": 11,
+   "language": "Python",
+   "topics": []
+  },
+  {
+   "name": "ZenBash",
+   "url": "https://github.com/dim-ghub/ZenBash",
+   "text": "Wallbash for Zen browser",
+   "fork": false,
+   "stars": 11,
+   "language": "Shell",
+   "topics": []
+  },
+  {
+   "name": "Minecraft-Caelestia",
+   "url": "https://github.com/dim-ghub/Minecraft-Caelestia",
+   "text": "",
+   "fork": false,
+   "stars": 8,
+   "language": "Shell",
+   "topics": []
+  },
+  {
+   "name": "CaelestiaZen",
+   "url": "https://github.com/dim-ghub/CaelestiaZen",
+   "text": "",
+   "fork": false,
+   "stars": 7,
+   "language": "JavaScript",
+   "topics": []
+  },
+  {
+   "name": "Vapor",
+   "url": "https://github.com/dim-ghub/Vapor",
+   "text": "A menu for various tools and automation scripts for Steam on linux.",
+   "fork": false,
+   "stars": 6,
+   "language": "Python",
+   "topics": []
+  },
+  {
+   "name": "caelestia-tools",
+   "url": "https://github.com/dim-ghub/caelestia-tools",
+   "text": "bunch of different scripts and tools for Caelestia",
+   "fork": false,
+   "stars": 5,
+   "language": "Shell",
+   "topics": []
+  },
+  {
+   "name": "AncientAliens",
+   "url": "https://github.com/dim-ghub/AncientAliens",
+   "text": "",
+   "fork": false,
+   "stars": 5,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "MechaHyde",
+   "url": "https://github.com/dim-ghub/MechaHyde",
+   "text": "My personal hyprland dotfiles, this is very much in beta",
+   "fork": false,
+   "stars": 5,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "Steam-Wallbash",
+   "url": "https://github.com/dim-ghub/Steam-Wallbash",
+   "text": "",
+   "fork": false,
+   "stars": 5,
+   "language": "Shell",
+   "topics": []
+  },
+  {
+   "name": "Caelestia-Plymouth",
+   "url": "https://github.com/dim-ghub/Caelestia-Plymouth",
+   "text": "Caelestia themed Plymouth boot sequence",
+   "fork": false,
+   "stars": 4,
+   "language": "Python",
+   "topics": []
+  },
+  {
+   "name": "CaelestiaSites",
+   "url": "https://github.com/dim-ghub/CaelestiaSites",
+   "text": "Live, dynamic webpage theming for Firefox powered by Caelestia. Injects your system colors into every website in real-time without refreshing.",
+   "fork": true,
+   "stars": 4,
+   "language": "CSS",
+   "topics": []
+  },
+  {
+   "name": "SwayNC-Wallbash",
+   "url": "https://github.com/dim-ghub/SwayNC-Wallbash",
+   "text": "",
+   "fork": false,
+   "stars": 4,
+   "language": "Shell",
+   "topics": []
+  },
+  {
+   "name": "dawn",
+   "url": "https://github.com/dim-ghub/dawn",
+   "text": "Artix-Hyprland dotfiles/distro. Please consider rewarding with a star.",
+   "fork": true,
+   "stars": 3,
+   "language": "Shell",
+   "topics": []
+  },
+  {
+   "name": "Wallbash-TUIs",
+   "url": "https://github.com/dim-ghub/Wallbash-TUIs",
+   "text": "",
+   "fork": false,
+   "stars": 3,
+   "language": "Shell",
+   "topics": []
+  },
+  {
+   "name": "RobloxChats",
+   "url": "https://github.com/dim-ghub/RobloxChats",
+   "text": "A desktop chat client for Roblox with real-time messaging, desktop notifications, and a native Qt UI.",
+   "fork": false,
+   "stars": 2,
+   "language": "Python",
+   "topics": [
+    "desktop-app",
+    "linux",
+    "pyqt6",
+    "python3",
+    "qt6",
+    "roblox"
+   ]
+  },
+  {
+   "name": "HyDE-Grub",
+   "url": "https://github.com/dim-ghub/HyDE-Grub",
+   "text": "A grub theme generator for HyDE",
+   "fork": false,
+   "stars": 2,
+   "language": "Shell",
+   "topics": []
+  },
+  {
+   "name": "TIDAL-WallBash",
+   "url": "https://github.com/dim-ghub/TIDAL-WallBash",
+   "text": "",
+   "fork": false,
+   "stars": 2,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "OBS-wallbash",
+   "url": "https://github.com/dim-ghub/OBS-wallbash",
+   "text": "",
+   "fork": false,
+   "stars": 2,
+   "language": "Shell",
+   "topics": []
+  },
+  {
+   "name": "nightcap",
+   "url": "https://github.com/dim-ghub/nightcap",
+   "text": "Play Roblox on Linux like it was made for your PC. Nightcap is mocktail, tuned to feel fast and look sharp.",
+   "fork": true,
+   "stars": 1,
+   "language": "C++",
+   "topics": []
+  },
+  {
+   "name": "Portfolio",
+   "url": "https://github.com/dim-ghub/Portfolio",
+   "text": "My web portfolio — Material Design 3 (Material Web) with live GitHub integration",
+   "fork": false,
+   "stars": 1,
+   "language": "JavaScript",
+   "topics": []
+  },
+  {
+   "name": "MidiPlusPlus-SD",
+   "url": "https://github.com/dim-ghub/MidiPlusPlus-SD",
+   "text": "StreamDeck plugin for my linux port of Midi++",
+   "fork": false,
+   "stars": 1,
+   "language": "Python",
+   "topics": []
+  },
+  {
+   "name": "tiny11builder-linux",
+   "url": "https://github.com/dim-ghub/tiny11builder-linux",
+   "text": "Scripts to build a trimmed-down Windows 11 image.",
+   "fork": true,
+   "stars": 1,
+   "language": "PowerShell",
+   "topics": []
+  },
+  {
+   "name": "baritone",
+   "url": "https://github.com/dim-ghub/baritone",
+   "text": "google maps for block game",
+   "fork": true,
+   "stars": 1,
+   "language": "Java",
+   "topics": []
+  },
+  {
+   "name": "pkgmgr",
+   "url": "https://github.com/dim-ghub/pkgmgr",
+   "text": "A wrapper for flatpak, paru, and pacman written in Go",
+   "fork": false,
+   "stars": 1,
+   "language": "Go",
+   "topics": []
+  },
+  {
+   "name": "caelestia-dots",
+   "url": "https://github.com/dim-ghub/caelestia-dots",
+   "text": "A very segsy rice",
+   "fork": true,
+   "stars": 1,
+   "language": "TypeScript",
+   "topics": []
+  },
+  {
+   "name": "soberstrap",
+   "url": "https://github.com/dim-ghub/soberstrap",
+   "text": "An alternative bootstrapper for Sober with a bunch of extra features.",
+   "fork": true,
+   "stars": 1,
+   "language": "C#",
+   "topics": []
+  },
+  {
+   "name": "caelestia-websites",
+   "url": "https://github.com/dim-ghub/caelestia-websites",
+   "text": "Website css repository",
+   "fork": false,
+   "stars": 1,
+   "language": "CSS",
+   "topics": []
+  },
+  {
+   "name": "Nightfall",
+   "url": "https://github.com/dim-ghub/Nightfall",
+   "text": "3rd party plugin and theme manager for Dusky",
+   "fork": false,
+   "stars": 1,
+   "language": "Shell",
+   "topics": []
+  },
+  {
+   "name": "Matppuccin",
+   "url": "https://github.com/dim-ghub/Matppuccin",
+   "text": "",
+   "fork": false,
+   "stars": 1,
+   "language": "Python",
+   "topics": []
+  },
+  {
+   "name": "Git-Stalk",
+   "url": "https://github.com/dim-ghub/Git-Stalk",
+   "text": "Bash script to list recent commits from any user.",
+   "fork": false,
+   "stars": 1,
+   "language": "Shell",
+   "topics": []
+  },
+  {
+   "name": "MIDIPlusPlusLinux",
+   "url": "https://github.com/dim-ghub/MIDIPlusPlusLinux",
+   "text": "A high performance MIDI Utility for virtual pianos (adapted for linux)",
+   "fork": true,
+   "stars": 1,
+   "language": "C++",
+   "topics": [
+    "auto-player",
+    "linux",
+    "midi",
+    "midi2key",
+    "qwerty",
+    "roblox",
+    "sober",
+    "sober-linux"
+   ]
+  },
+  {
+   "name": "HeroicWallBash",
+   "url": "https://github.com/dim-ghub/HeroicWallBash",
+   "text": "Script to restart the launcher and a dcol file for theming, make the script executable and it will be ran to restart the launcher on wallbash refresh",
+   "fork": false,
+   "stars": 1,
+   "language": "Shell",
+   "topics": []
+  },
+  {
+   "name": "MatugenFetch",
+   "url": "https://github.com/dim-ghub/MatugenFetch",
+   "text": "fastfetch logo generator for Matugen",
+   "fork": false,
+   "stars": 1,
+   "language": "Shell",
+   "topics": []
+  },
+  {
+   "name": "dim-ghub",
+   "url": "https://github.com/dim-ghub/dim-ghub",
+   "text": "My GitHub profile",
+   "fork": false,
+   "stars": 0,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "villagernews-java",
+   "url": "https://github.com/dim-ghub/villagernews-java",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "Java",
+   "topics": []
+  },
+  {
+   "name": "vox-tts",
+   "url": "https://github.com/dim-ghub/vox-tts",
+   "text": "Speak your Nightcap (Roblox) chat into voice chat as Animal Crossing Animalese",
+   "fork": false,
+   "stars": 0,
+   "language": "C++",
+   "topics": []
+  },
+  {
+   "name": "nightcap-git-aur",
+   "url": "https://github.com/dim-ghub/nightcap-git-aur",
+   "text": "AUR packaging for nightcap-git with automatic release bumps",
+   "fork": false,
+   "stars": 0,
+   "language": "Shell",
+   "topics": []
+  },
+  {
+   "name": "m3-wayvr",
+   "url": "https://github.com/dim-ghub/m3-wayvr",
+   "text": "Material 3 Expressive theme for WayVR, matched to the Caelestia shell, with wallpaper-synced colors and watch media controls",
+   "fork": false,
+   "stars": 0,
+   "language": "TypeScript",
+   "topics": []
+  },
+  {
+   "name": "zed",
+   "url": "https://github.com/dim-ghub/zed",
+   "text": "Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.",
+   "fork": true,
+   "stars": 0,
+   "language": "Rust",
+   "topics": []
+  },
+  {
+   "name": "aosp-cursors-caelestia",
+   "url": "https://github.com/dim-ghub/aosp-cursors-caelestia",
+   "text": "Android cursors for Linux & Windows themed by Caelestia",
+   "fork": true,
+   "stars": 0,
+   "language": "JavaScript",
+   "topics": []
+  },
+  {
+   "name": "fastpotify-theming",
+   "url": "https://github.com/dim-ghub/fastpotify-theming",
+   "text": "Spotify, native and fast. One lightweight Rust app for your whole library, local playback, and Spotify Connect on Linux, macOS, and Windows.",
+   "fork": true,
+   "stars": 0,
+   "language": "Rust",
+   "topics": []
+  },
+  {
+   "name": "Helm",
+   "url": "https://github.com/dim-ghub/Helm",
+   "text": "M3 Hyprland configuration utility built for Caelestia",
+   "fork": false,
+   "stars": 0,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "hyprland-config",
+   "url": "https://github.com/dim-ghub/hyprland-config",
+   "text": "Round-trip parser and editor for Hyprland configuration files.",
+   "fork": true,
+   "stars": 0,
+   "language": "Python",
+   "topics": []
+  },
+  {
+   "name": "spotify-caelestia",
+   "url": "https://github.com/dim-ghub/spotify-caelestia",
+   "text": "Lightweight Spotify client themed after Caelestia",
+   "fork": true,
+   "stars": 0,
+   "language": "C++",
+   "topics": []
+  },
+  {
+   "name": "BedrockOnLinux",
+   "url": "https://github.com/dim-ghub/BedrockOnLinux",
+   "text": "Run Minecraft Bedrock for Windows seamlessly on Linux.",
+   "fork": true,
+   "stars": 0,
+   "language": "Python",
+   "topics": []
+  },
+  {
+   "name": "emoji-workshop",
+   "url": "https://github.com/dim-ghub/emoji-workshop",
+   "text": "The well-known Emoji Wallpaper Generator from Google – now for your computer!",
+   "fork": true,
+   "stars": 0,
+   "language": "Python",
+   "topics": []
+  },
+  {
+   "name": "scrcpy-gui",
+   "url": "https://github.com/dim-ghub/scrcpy-gui",
+   "text": "A modern, high-performance GUI for the scrcpy",
+   "fork": true,
+   "stars": 0,
+   "language": "TypeScript",
+   "topics": []
+  },
+  {
+   "name": "hyprmod",
+   "url": "https://github.com/dim-ghub/hyprmod",
+   "text": "A native GTK4/libadwaita settings app for Hyprland.",
+   "fork": true,
+   "stars": 0,
+   "language": "Python",
+   "topics": []
+  },
+  {
+   "name": "BetterDiscord",
+   "url": "https://github.com/dim-ghub/BetterDiscord",
+   "text": "",
+   "fork": true,
+   "stars": 0,
+   "language": "SCSS",
+   "topics": []
+  },
+  {
+   "name": "Caelestia-Discord",
+   "url": "https://github.com/dim-ghub/Caelestia-Discord",
+   "text": "Material design theme for Discord",
+   "fork": true,
+   "stars": 0,
+   "language": "CSS",
+   "topics": []
+  },
+  {
+   "name": "caelestia-sddm",
+   "url": "https://github.com/dim-ghub/caelestia-sddm",
+   "text": "",
+   "fork": true,
+   "stars": 0,
+   "language": "QML",
+   "topics": []
+  },
+  {
+   "name": "firefox-gnome-theme",
+   "url": "https://github.com/dim-ghub/firefox-gnome-theme",
+   "text": "A GNOME👣 theme for Firefox🔥",
+   "fork": true,
+   "stars": 0,
+   "language": "CSS",
+   "topics": []
+  },
+  {
+   "name": "4jcraft",
+   "url": "https://github.com/dim-ghub/4jcraft",
+   "text": "Leaked version of Minecraft Legacy Console Edition. Not for commercial purposes",
+   "fork": true,
+   "stars": 0,
+   "language": "C++",
+   "topics": []
+  },
+  {
+   "name": "artix-installer",
+   "url": "https://github.com/dim-ghub/artix-installer",
+   "text": "A simple installer for Artix Linux",
+   "fork": true,
+   "stars": 0,
+   "language": "Shell",
+   "topics": []
+  },
+  {
+   "name": "arch-deckify",
+   "url": "https://github.com/dim-ghub/arch-deckify",
+   "text": "A script to easily set up a SteamOS-like gaming session on Arch Linux.",
+   "fork": true,
+   "stars": 0,
+   "language": "Shell",
+   "topics": []
+  },
+  {
+   "name": "SamTTS",
+   "url": "https://github.com/dim-ghub/SamTTS",
+   "text": "TTS project using Software Automatic Mouth (SAM)",
+   "fork": false,
+   "stars": 0,
+   "language": "JavaScript",
+   "topics": []
+  },
+  {
+   "name": "LegacyLauncher",
+   "url": "https://github.com/dim-ghub/LegacyLauncher",
+   "text": "A custom launcher for Minecraft LCE. Edited to compile as a .pacman for arch linux",
+   "fork": true,
+   "stars": 0,
+   "language": "JavaScript",
+   "topics": []
+  },
+  {
+   "name": "matugen-themes",
+   "url": "https://github.com/dim-ghub/matugen-themes",
+   "text": "",
+   "fork": true,
+   "stars": 0,
+   "language": "CSS",
+   "topics": []
+  },
+  {
+   "name": "MuteLEDs",
+   "url": "https://github.com/dim-ghub/MuteLEDs",
+   "text": "Scripts and systemd services to fix speaker/mic mute toggle leds on the Hp ENVY x360",
+   "fork": false,
+   "stars": 0,
+   "language": "Shell",
+   "topics": []
+  },
+  {
+   "name": "Twilight",
+   "url": "https://github.com/dim-ghub/Twilight",
+   "text": "Steam GameMode launcher for Dusky",
+   "fork": false,
+   "stars": 0,
+   "language": "Shell",
+   "topics": []
+  },
+  {
+   "name": "code-matugen",
+   "url": "https://github.com/dim-ghub/code-matugen",
+   "text": "VSCode extension for Dusky using matugen colors",
+   "fork": true,
+   "stars": 0,
+   "language": "TypeScript",
+   "topics": []
+  },
+  {
+   "name": "textfox-rounded",
+   "url": "https://github.com/dim-ghub/textfox-rounded",
+   "text": "firefox theme for the tui enthusiast",
+   "fork": true,
+   "stars": 0,
+   "language": "CSS",
+   "topics": []
+  },
+  {
+   "name": "Animalese-Wayclick",
+   "url": "https://github.com/dim-ghub/Animalese-Wayclick",
+   "text": "Animalese soundpack for Wayclick",
+   "fork": false,
+   "stars": 0,
+   "language": "Shell",
+   "topics": []
+  },
+  {
+   "name": "dusky",
+   "url": "https://github.com/dim-ghub/dusky",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "Shell",
+   "topics": []
+  },
+  {
+   "name": "PiCord",
+   "url": "https://github.com/dim-ghub/PiCord",
+   "text": "Discord self bot optimized for the Raspberry Pi",
+   "fork": false,
+   "stars": 0,
+   "language": "Python",
+   "topics": []
+  },
+  {
+   "name": "AutoBoat",
+   "url": "https://github.com/dim-ghub/AutoBoat",
+   "text": "Automate UnbelievaBoat bot on Discord",
+   "fork": true,
+   "stars": 0,
+   "language": "Python",
+   "topics": []
+  },
+  {
+   "name": "WindowsHandheldMod",
+   "url": "https://github.com/dim-ghub/WindowsHandheldMod",
+   "text": "A mod that allows you to play a boot movie and have a launcher like steam start before the windows desktop.",
+   "fork": true,
+   "stars": 0,
+   "language": "Batchfile",
+   "topics": []
+  },
+  {
+   "name": "Fit-Launcher",
+   "url": "https://github.com/dim-ghub/Fit-Launcher",
+   "text": "A better version of my previous Fitgirl's Repacks Launcher. Made using Tauri with SolidJS.",
+   "fork": true,
+   "stars": 0,
+   "language": "TypeScript",
+   "topics": []
+  },
+  {
+   "name": "Lution",
+   "url": "https://github.com/dim-ghub/Lution",
+   "text": "literally a bloxstrap clone 4 linux",
+   "fork": true,
+   "stars": 0,
+   "language": "Python",
+   "topics": []
+  },
+  {
+   "name": "HyDE",
+   "url": "https://github.com/dim-ghub/HyDE",
+   "text": "HyDE, your Development Environment 🖥️💻",
+   "fork": true,
+   "stars": 0,
+   "language": "Shell",
+   "topics": []
+  },
+  {
+   "name": "ReVancedExtendedXposed",
+   "url": "https://github.com/dim-ghub/ReVancedExtendedXposed",
+   "text": "ReVanced Extended LSPosed module. YouTube & YT Music Remove ads, Background playback",
+   "fork": true,
+   "stars": 0,
+   "language": "Kotlin",
+   "topics": []
+  },
+  {
+   "name": "fonts",
+   "url": "https://github.com/dim-ghub/fonts",
+   "text": "font packages for revenge client",
+   "fork": false,
+   "stars": 0,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "Spotiblox",
+   "url": "https://github.com/dim-ghub/Spotiblox",
+   "text": "Automatically update your Roblox \"About Me\" section containing information of the currently playing song on Spotify",
+   "fork": false,
+   "stars": 0,
+   "language": "Shell",
+   "topics": [
+    "linux",
+    "requests",
+    "roblox",
+    "sober",
+    "sober-linux",
+    "spotify"
+   ]
+  },
+  {
+   "name": "Fastfetch-Configs",
+   "url": "https://github.com/dim-ghub/Fastfetch-Configs",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "hyde-gallery",
+   "url": "https://github.com/dim-ghub/hyde-gallery",
+   "text": "\\\\ Repository for supported HyDE themes.",
+   "fork": true,
+   "stars": 0,
+   "language": "Python",
+   "topics": []
+  },
+  {
+   "name": "WallbashCursors",
+   "url": "https://github.com/dim-ghub/WallbashCursors",
+   "text": "A shell and python script to generate x11 and hyprcursors for HyDE using wallbash",
+   "fork": false,
+   "stars": 0,
+   "language": "Shell",
+   "topics": []
+  },
+  {
+   "name": "SteamBash",
+   "url": "https://github.com/dim-ghub/SteamBash",
+   "text": "Wallbash Theme for Steam",
+   "fork": true,
+   "stars": 0,
+   "language": "CSS",
+   "topics": []
+  },
+  {
+   "name": "HyDE-dots",
+   "url": "https://github.com/dim-ghub/HyDE-dots",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "Shell",
+   "topics": []
+  },
+  {
+   "name": "HyDE-mdwm",
+   "url": "https://github.com/dim-ghub/HyDE-mdwm",
+   "text": "A script to help fix one of my biggest annoyances with the HyDE project: the lack of ability to set a wallpaper PER display.",
+   "fork": false,
+   "stars": 0,
+   "language": "Shell",
+   "topics": []
+  }
+ ]
+}

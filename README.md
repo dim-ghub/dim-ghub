@@ -6,9 +6,9 @@
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack-dark.svg"><img src="assets/stack-light.svg" width="100%" alt="Tech stack"></picture>
 
-<a href="https://github.com/dim-ghub/Withdrawal"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-withdrawal-dark.svg"><img src="assets/project-withdrawal-light.svg" width="49%" alt="Withdrawal"></picture></a>&nbsp;<a href="https://github.com/dim-ghub/ToiletPaper"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-toiletpaper-dark.svg"><img src="assets/project-toiletpaper-light.svg" width="49%" alt="ToiletPaper"></picture></a>
+<a href="https://github.com/AstraSuite/Atlas"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-atlas-dark.svg"><img src="assets/project-atlas-light.svg" width="49%" alt="Atlas"></picture></a>&nbsp;<a href="https://github.com/dim-ghub/midnight-shell"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-midnight-shell-dark.svg"><img src="assets/project-midnight-shell-light.svg" width="49%" alt="midnight-shell"></picture></a>
 
-<a href="https://github.com/dim-ghub/Caelestia-Grub"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-caelestia-grub-dark.svg"><img src="assets/project-caelestia-grub-light.svg" width="49%" alt="Caelestia-Grub"></picture></a>&nbsp;<a href="https://github.com/dim-ghub/ZenBash"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-zenbash-dark.svg"><img src="assets/project-zenbash-light.svg" width="49%" alt="ZenBash"></picture></a>
+<a href="https://github.com/AstraSuite/Airlock"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-airlock-dark.svg"><img src="assets/project-airlock-light.svg" width="49%" alt="Airlock"></picture></a>
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/stats-dark.svg"><img src="assets/stats-light.svg" width="100%" alt="GitHub activity"></picture>
 
