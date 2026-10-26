@@ -1,6 +1,6 @@
 {
- "key": "adc97a9b",
- "stars": 134,
+ "key": "d5f4916e",
+ "stars": 135,
  "contributions": 1213,
  "repos": 84,
  "followers": 45,
@@ -155,7 +155,7 @@
    "url": "https://github.com/AstraSuite/Airlock",
    "text": "A beautiful m3expressive greetd frontend based on Caelestia",
    "fork": false,
-   "stars": 49,
+   "stars": 48,
    "language": "QML",
    "topics": []
   }
@@ -392,6 +392,15 @@
    "topics": []
   },
   {
+   "name": "dim-ghub",
+   "url": "https://github.com/dim-ghub/dim-ghub",
+   "text": "My GitHub profile",
+   "fork": false,
+   "stars": 1,
+   "language": null,
+   "topics": []
+  },
+  {
    "name": "villagernews-java",
    "url": "https://github.com/dim-ghub/villagernews-java",
    "text": "",
@@ -542,15 +551,6 @@
    "fork": false,
    "stars": 1,
    "language": "Shell",
-   "topics": []
-  },
-  {
-   "name": "dim-ghub",
-   "url": "https://github.com/dim-ghub/dim-ghub",
-   "text": "My GitHub profile",
-   "fork": false,
-   "stars": 0,
-   "language": null,
    "topics": []
   },
   {
