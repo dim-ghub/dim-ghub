@@ -1,5 +1,5 @@
 {
- "key": "56e03ed",
+ "key": "110fab6e",
  "stars": 138,
  "contributions": 1240,
  "repos": 85,
@@ -297,6 +297,15 @@
    "topics": []
   },
   {
+   "name": "dawn",
+   "url": "https://github.com/dim-ghub/dawn",
+   "text": "Artix-Hyprland dotfiles/distro. Please consider rewarding with a star.",
+   "fork": true,
+   "stars": 5,
+   "language": "Shell",
+   "topics": []
+  },
+  {
    "name": "AncientAliens",
    "url": "https://github.com/dim-ghub/AncientAliens",
    "text": "",
@@ -339,15 +348,6 @@
    "fork": true,
    "stars": 4,
    "language": "CSS",
-   "topics": []
-  },
-  {
-   "name": "dawn",
-   "url": "https://github.com/dim-ghub/dawn",
-   "text": "Artix-Hyprland dotfiles/distro. Please consider rewarding with a star.",
-   "fork": true,
-   "stars": 4,
-   "language": "Shell",
    "topics": []
   },
   {
