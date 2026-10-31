@@ -1,5 +1,5 @@
 {
- "key": "9d3c0202",
+ "key": "56e03ed",
  "stars": 138,
  "contributions": 1240,
  "repos": 85,
@@ -157,7 +157,7 @@
    "url": "https://github.com/AstraSuite/Atlas",
    "text": "Native Caelestia File Manager",
    "fork": false,
-   "stars": 29,
+   "stars": 30,
    "language": "QML",
    "topics": []
   },
@@ -175,7 +175,7 @@
    "url": "https://github.com/AstraSuite/Airlock",
    "text": "A beautiful m3expressive greetd frontend based on Caelestia",
    "fork": false,
-   "stars": 50,
+   "stars": 51,
    "language": "QML",
    "topics": []
   }
