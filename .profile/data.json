@@ -1,5 +1,5 @@
 {
- "key": "6adb1ef",
+ "key": "edda2799",
  "stars": 140,
  "contributions": 1245,
  "repos": 85,
@@ -158,7 +158,7 @@
    "url": "https://github.com/dim-ghub/midnight-shell",
    "text": "Basically Caelestia+",
    "fork": true,
-   "stars": 211,
+   "stars": 212,
    "language": "QML",
    "topics": []
   },
@@ -178,7 +178,7 @@
    "url": "https://github.com/dim-ghub/midnight-shell",
    "text": "Basically Caelestia+",
    "fork": true,
-   "stars": 211,
+   "stars": 212,
    "language": "QML",
    "topics": []
   },
@@ -361,15 +361,6 @@
    "topics": []
   },
   {
-   "name": "valenced-materialyou",
-   "url": "https://github.com/dim-ghub/valenced-materialyou",
-   "text": "",
-   "fork": false,
-   "stars": 2,
-   "language": "TypeScript",
-   "topics": []
-  },
-  {
    "name": "nightcap",
    "url": "https://github.com/dim-ghub/nightcap",
    "text": "Play Roblox on Linux like it was made for your PC. Nightcap is mocktail, tuned to feel fast and look sharp.",
@@ -422,6 +413,15 @@
    "topics": []
   },
   {
+   "name": "valenced-materialyou",
+   "url": "https://github.com/dim-ghub/valenced-materialyou",
+   "text": "",
+   "fork": false,
+   "stars": 1,
+   "language": "TypeScript",
+   "topics": []
+  },
+  {
    "name": "dim-ghub",
    "url": "https://github.com/dim-ghub/dim-ghub",
    "text": "My GitHub profile",
@@ -437,6 +437,15 @@
    "fork": false,
    "stars": 1,
    "language": "Java",
+   "topics": []
+  },
+  {
+   "name": "m3-wayvr",
+   "url": "https://github.com/dim-ghub/m3-wayvr",
+   "text": "Material 3 Expressive theme for WayVR, matched to the Caelestia shell, with wallpaper-synced colors and watch media controls",
+   "fork": false,
+   "stars": 1,
+   "language": "TypeScript",
    "topics": []
   },
   {
@@ -590,15 +599,6 @@
    "fork": false,
    "stars": 0,
    "language": "Shell",
-   "topics": []
-  },
-  {
-   "name": "m3-wayvr",
-   "url": "https://github.com/dim-ghub/m3-wayvr",
-   "text": "Material 3 Expressive theme for WayVR, matched to the Caelestia shell, with wallpaper-synced colors and watch media controls",
-   "fork": false,
-   "stars": 0,
-   "language": "TypeScript",
    "topics": []
   },
   {
