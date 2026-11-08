@@ -1,5 +1,5 @@
 {
- "key": "dcbb49e9",
+ "key": "db8f82c8",
  "stars": 141,
  "contributions": 1255,
  "repos": 85,
@@ -151,7 +151,7 @@
    "url": "https://github.com/AstraSuite/Airlock",
    "text": "A beautiful m3expressive greetd frontend based on Caelestia",
    "fork": false,
-   "stars": 52,
+   "stars": 53,
    "language": "QML",
    "topics": []
   }
