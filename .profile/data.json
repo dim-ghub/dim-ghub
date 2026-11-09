@@ -1,6 +1,6 @@
 {
- "key": "50a240c6",
- "stars": 141,
+ "key": "616bbe04",
+ "stars": 142,
  "contributions": 1266,
  "repos": 85,
  "followers": 48,
@@ -349,6 +349,15 @@
    "topics": []
   },
   {
+   "name": "villagernews-java",
+   "url": "https://github.com/dim-ghub/villagernews-java",
+   "text": "",
+   "fork": false,
+   "stars": 2,
+   "language": "Java",
+   "topics": []
+  },
+  {
    "name": "nightcap",
    "url": "https://github.com/dim-ghub/nightcap",
    "text": "Play Roblox on Linux like it was made for your PC. Nightcap is mocktail, tuned to feel fast and look sharp.",
@@ -416,15 +425,6 @@
    "fork": false,
    "stars": 1,
    "language": null,
-   "topics": []
-  },
-  {
-   "name": "villagernews-java",
-   "url": "https://github.com/dim-ghub/villagernews-java",
-   "text": "",
-   "fork": false,
-   "stars": 1,
-   "language": "Java",
    "topics": []
   },
   {
