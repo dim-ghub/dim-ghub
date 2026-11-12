@@ -1,7 +1,7 @@
 {
- "key": "6cf3f93e",
- "stars": 146,
- "contributions": 1279,
+ "key": "8bbb35b8",
+ "stars": 147,
+ "contributions": 1289,
  "repos": 85,
  "followers": 49,
  "languages": [
@@ -111,27 +111,27 @@
   ],
   [
    {
-    "c": 9,
+    "c": 11,
     "day": 8,
     "today": false
    },
    {
-    "c": 4,
+    "c": 5,
     "day": 9,
     "today": false
    },
    {
-    "c": 3,
+    "c": 5,
     "day": 10,
     "today": false
    },
    {
-    "c": 0,
+    "c": 2,
     "day": 11,
     "today": false
    },
    {
-    "c": 0,
+    "c": 3,
     "day": 12,
     "today": true
    },
@@ -140,7 +140,7 @@
   ]
  ],
  "streak": {
-  "current": 0,
+  "current": 8,
   "longest": 17
  },
  "pins": [
@@ -149,7 +149,7 @@
    "url": "https://github.com/AstraSuite/Atlas",
    "text": "Native Caelestia File Manager",
    "fork": false,
-   "stars": 32,
+   "stars": 31,
    "language": "QML",
    "topics": []
   },
@@ -158,7 +158,7 @@
    "url": "https://github.com/dim-ghub/midnight-shell",
    "text": "Basically Caelestia+",
    "fork": true,
-   "stars": 211,
+   "stars": 210,
    "language": "QML",
    "topics": []
   },
@@ -167,7 +167,7 @@
    "url": "https://github.com/AstraSuite/Airlock",
    "text": "A beautiful m3expressive greetd frontend based on Caelestia",
    "fork": false,
-   "stars": 54,
+   "stars": 53,
    "language": "QML",
    "topics": []
   }
@@ -178,7 +178,7 @@
    "url": "https://github.com/dim-ghub/midnight-shell",
    "text": "Basically Caelestia+",
    "fork": true,
-   "stars": 211,
+   "stars": 210,
    "language": "QML",
    "topics": []
   },
@@ -221,7 +221,7 @@
    "url": "https://github.com/dim-ghub/midnight-cli",
    "text": "The main control script for the Caelestia dotfiles",
    "fork": true,
-   "stars": 14,
+   "stars": 13,
    "language": "Python",
    "topics": []
   },
@@ -370,6 +370,15 @@
    "topics": []
   },
   {
+   "name": "VoxMenu",
+   "url": "https://github.com/dim-ghub/VoxMenu",
+   "text": "An in-game menu for Nightcap (Roblox): TTS, HUD overlays, macros and VR",
+   "fork": false,
+   "stars": 2,
+   "language": "C++",
+   "topics": []
+  },
+  {
    "name": "nightcap",
    "url": "https://github.com/dim-ghub/nightcap",
    "text": "Play Roblox on Linux like it was made for your PC. Nightcap is mocktail, tuned to feel fast and look sharp.",
@@ -437,15 +446,6 @@
    "fork": false,
    "stars": 1,
    "language": null,
-   "topics": []
-  },
-  {
-   "name": "vox-tts",
-   "url": "https://github.com/dim-ghub/vox-tts",
-   "text": "Speak your Nightcap (Roblox) chat into voice chat as Animal Crossing Animalese",
-   "fork": false,
-   "stars": 1,
-   "language": "C++",
    "topics": []
   },
   {
