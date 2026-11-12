@@ -1,6 +1,6 @@
 {
- "key": "8bbb35b8",
- "stars": 147,
+ "key": "7522e36e",
+ "stars": 151,
  "contributions": 1289,
  "repos": 85,
  "followers": 49,
@@ -11,7 +11,11 @@
   ],
   [
    "Python",
-   507800
+   523098
+  ],
+  [
+   "C++",
+   492810
   ],
   [
    "Java",
@@ -20,10 +24,6 @@
   [
    "JavaScript",
    260918
-  ],
-  [
-   "C++",
-   231847
   ],
   [
    "TypeScript",
@@ -167,7 +167,7 @@
    "url": "https://github.com/AstraSuite/Airlock",
    "text": "A beautiful m3expressive greetd frontend based on Caelestia",
    "fork": false,
-   "stars": 53,
+   "stars": 54,
    "language": "QML",
    "topics": []
   }
@@ -244,21 +244,21 @@
    "topics": []
   },
   {
+   "name": "CaelestiaZen",
+   "url": "https://github.com/dim-ghub/CaelestiaZen",
+   "text": "",
+   "fork": false,
+   "stars": 11,
+   "language": "CSS",
+   "topics": []
+  },
+  {
    "name": "ZenBash",
    "url": "https://github.com/dim-ghub/ZenBash",
    "text": "Wallbash for Zen browser",
    "fork": false,
    "stars": 11,
    "language": "Shell",
-   "topics": []
-  },
-  {
-   "name": "CaelestiaZen",
-   "url": "https://github.com/dim-ghub/CaelestiaZen",
-   "text": "",
-   "fork": false,
-   "stars": 10,
-   "language": "CSS",
    "topics": []
   },
   {
@@ -271,20 +271,20 @@
    "topics": []
   },
   {
-   "name": "Vapor",
-   "url": "https://github.com/dim-ghub/Vapor",
-   "text": "A menu for various tools and automation scripts for Steam on linux.",
+   "name": "Caelestia-Plymouth",
+   "url": "https://github.com/dim-ghub/Caelestia-Plymouth",
+   "text": "Caelestia themed Plymouth boot sequence",
    "fork": false,
    "stars": 6,
    "language": "Python",
    "topics": []
   },
   {
-   "name": "Caelestia-Plymouth",
-   "url": "https://github.com/dim-ghub/Caelestia-Plymouth",
-   "text": "Caelestia themed Plymouth boot sequence",
+   "name": "Vapor",
+   "url": "https://github.com/dim-ghub/Vapor",
+   "text": "A menu for various tools and automation scripts for Steam on linux.",
    "fork": false,
-   "stars": 5,
+   "stars": 6,
    "language": "Python",
    "topics": []
   },
@@ -334,6 +334,15 @@
    "topics": []
   },
   {
+   "name": "VoxMenu",
+   "url": "https://github.com/dim-ghub/VoxMenu",
+   "text": "An in-game menu for Nightcap (Roblox): TTS, HUD overlays, macros and VR",
+   "fork": false,
+   "stars": 4,
+   "language": "C++",
+   "topics": []
+  },
+  {
    "name": "CaelestiaSites",
    "url": "https://github.com/dim-ghub/CaelestiaSites",
    "text": "Live, dynamic webpage theming for Firefox powered by Caelestia. Injects your system colors into every website in real-time without refreshing.",
@@ -367,15 +376,6 @@
    "fork": false,
    "stars": 3,
    "language": "Shell",
-   "topics": []
-  },
-  {
-   "name": "VoxMenu",
-   "url": "https://github.com/dim-ghub/VoxMenu",
-   "text": "An in-game menu for Nightcap (Roblox): TTS, HUD overlays, macros and VR",
-   "fork": false,
-   "stars": 2,
-   "language": "C++",
    "topics": []
   },
   {
