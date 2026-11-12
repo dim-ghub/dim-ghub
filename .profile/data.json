@@ -1,6 +1,6 @@
 {
- "key": "f41150da",
- "stars": 144,
+ "key": "6cf3f93e",
+ "stars": 146,
  "contributions": 1279,
  "repos": 85,
  "followers": 49,
@@ -128,15 +128,19 @@
    {
     "c": 0,
     "day": 11,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 12,
     "today": true
    },
-   null,
    null,
    null
   ]
  ],
  "streak": {
-  "current": 6,
+  "current": 0,
   "longest": 17
  },
  "pins": [
@@ -163,7 +167,7 @@
    "url": "https://github.com/AstraSuite/Airlock",
    "text": "A beautiful m3expressive greetd frontend based on Caelestia",
    "fork": false,
-   "stars": 53,
+   "stars": 54,
    "language": "QML",
    "topics": []
   }
@@ -197,7 +201,7 @@
    "url": "https://github.com/dim-ghub/ToiletPaper",
    "text": "Cleanse CachyOS and return to a pristine, vanilla Arch Linux system.",
    "fork": false,
-   "stars": 17,
+   "stars": 18,
    "language": "Shell",
    "topics": [
     "arch-linux",
@@ -276,6 +280,15 @@
    "topics": []
   },
   {
+   "name": "Caelestia-Plymouth",
+   "url": "https://github.com/dim-ghub/Caelestia-Plymouth",
+   "text": "Caelestia themed Plymouth boot sequence",
+   "fork": false,
+   "stars": 5,
+   "language": "Python",
+   "topics": []
+  },
+  {
    "name": "caelestia-tools",
    "url": "https://github.com/dim-ghub/caelestia-tools",
    "text": "bunch of different scripts and tools for Caelestia",
@@ -318,15 +331,6 @@
    "fork": false,
    "stars": 5,
    "language": "Shell",
-   "topics": []
-  },
-  {
-   "name": "Caelestia-Plymouth",
-   "url": "https://github.com/dim-ghub/Caelestia-Plymouth",
-   "text": "Caelestia themed Plymouth boot sequence",
-   "fork": false,
-   "stars": 4,
-   "language": "Python",
    "topics": []
   },
   {
