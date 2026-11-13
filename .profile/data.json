@@ -1,9 +1,9 @@
 {
- "key": "7522e36e",
+ "key": "5ee3ced9",
  "stars": 151,
  "contributions": 1289,
  "repos": 85,
- "followers": 49,
+ "followers": 50,
  "languages": [
   [
    "CSS",
@@ -133,9 +133,13 @@
    {
     "c": 3,
     "day": 12,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 13,
     "today": true
    },
-   null,
    null
   ]
  ],
