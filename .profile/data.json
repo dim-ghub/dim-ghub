@@ -1,9 +1,9 @@
 {
- "key": "ab851e62",
+ "key": "bfa83022",
  "stars": 151,
  "contributions": 1300,
  "repos": 85,
- "followers": 50,
+ "followers": 51,
  "languages": [
   [
    "C++",
@@ -157,7 +157,7 @@
    "url": "https://github.com/AstraSuite/Atlas",
    "text": "Native Caelestia File Manager",
    "fork": false,
-   "stars": 31,
+   "stars": 30,
    "language": "QML",
    "topics": []
   },
