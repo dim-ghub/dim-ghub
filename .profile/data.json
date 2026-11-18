@@ -1,13 +1,13 @@
 {
- "key": "ef4d63e1",
+ "key": "e7d32bc",
  "stars": 152,
- "contributions": 1278,
- "repos": 87,
+ "contributions": 1282,
+ "repos": 89,
  "followers": 53,
  "languages": [
   [
    "Python",
-   569832
+   576544
   ],
   [
    "C++",
@@ -126,7 +126,7 @@
     "today": false
    },
    {
-    "c": 1,
+    "c": 5,
     "day": 18,
     "today": true
    },
@@ -585,6 +585,24 @@
    "text": "fastfetch logo generator for Matugen",
    "fork": false,
    "stars": 1,
+   "language": "Shell",
+   "topics": []
+  },
+  {
+   "name": "dimzilla",
+   "url": "https://github.com/dim-ghub/dimzilla",
+   "text": "ok",
+   "fork": true,
+   "stars": 0,
+   "language": "JavaScript",
+   "topics": []
+  },
+  {
+   "name": "gtavxr-linux",
+   "url": "https://github.com/dim-ghub/gtavxr-linux",
+   "text": "Run GTAVXR (GTA V VR mod) on Linux with Proton: setup scripts, Wine crash fix, Monado test setup",
+   "fork": false,
+   "stars": 0,
    "language": "Shell",
    "topics": []
   },
