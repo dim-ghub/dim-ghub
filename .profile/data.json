@@ -1,6 +1,6 @@
 {
- "key": "655185cc",
- "stars": 153,
+ "key": "5ee2f54c",
+ "stars": 154,
  "contributions": 1307,
  "repos": 90,
  "followers": 54,
@@ -133,7 +133,7 @@
    "url": "https://github.com/AstraSuite/Atlas",
    "text": "Native Caelestia File Manager",
    "fork": false,
-   "stars": 30,
+   "stars": 31,
    "language": "QML",
    "topics": []
   },
@@ -142,7 +142,7 @@
    "url": "https://github.com/dim-ghub/midnight-shell",
    "text": "Basically Caelestia+",
    "fork": true,
-   "stars": 210,
+   "stars": 211,
    "language": "QML",
    "topics": []
   },
@@ -151,7 +151,7 @@
    "url": "https://github.com/AstraSuite/Airlock",
    "text": "A beautiful m3expressive greetd frontend based on Caelestia",
    "fork": false,
-   "stars": 56,
+   "stars": 59,
    "language": "QML",
    "topics": []
   }
@@ -162,7 +162,7 @@
    "url": "https://github.com/dim-ghub/midnight-shell",
    "text": "Basically Caelestia+",
    "fork": true,
-   "stars": 210,
+   "stars": 211,
    "language": "QML",
    "topics": []
   },
@@ -223,7 +223,7 @@
    "url": "https://github.com/dim-ghub/Caelestia-Grub",
    "text": "A grub theme generator for Caelestia",
    "fork": false,
-   "stars": 11,
+   "stars": 12,
    "language": "Python",
    "topics": []
   },
