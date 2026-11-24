@@ -1,9 +1,9 @@
 {
- "key": "55a838a9",
- "stars": 154,
+ "key": "696321b3",
+ "stars": 155,
  "contributions": 1286,
  "repos": 90,
- "followers": 55,
+ "followers": 54,
  "languages": [
   [
    "Python",
@@ -118,9 +118,13 @@
    {
     "c": 4,
     "day": 23,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 24,
     "today": true
    },
-   null,
    null,
    null,
    null,
@@ -367,6 +371,15 @@
    "topics": []
   },
   {
+   "name": "gtavxr-linux",
+   "url": "https://github.com/dim-ghub/gtavxr-linux",
+   "text": "Run GTAVXR (GTA V VR mod) on Linux with Proton: setup scripts, Wine crash fix, Monado test setup",
+   "fork": false,
+   "stars": 2,
+   "language": "Shell",
+   "topics": []
+  },
+  {
    "name": "nightcap",
    "url": "https://github.com/dim-ghub/nightcap",
    "text": "Play Roblox on Linux like it was made for your PC. Nightcap is mocktail, tuned to feel fast and look sharp.",
@@ -425,15 +438,6 @@
    "fork": false,
    "stars": 1,
    "language": "Python",
-   "topics": []
-  },
-  {
-   "name": "gtavxr-linux",
-   "url": "https://github.com/dim-ghub/gtavxr-linux",
-   "text": "Run GTAVXR (GTA V VR mod) on Linux with Proton: setup scripts, Wine crash fix, Monado test setup",
-   "fork": false,
-   "stars": 1,
-   "language": "Shell",
    "topics": []
   },
   {
