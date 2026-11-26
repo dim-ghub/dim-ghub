@@ -1,5 +1,5 @@
 {
- "key": "a34bb97c",
+ "key": "97012b9",
  "stars": 156,
  "contributions": 1293,
  "repos": 92,
@@ -167,7 +167,7 @@
    "url": "https://github.com/AstraSuite/Airlock",
    "text": "A beautiful m3expressive greetd frontend based on Caelestia",
    "fork": false,
-   "stars": 59,
+   "stars": 60,
    "language": "QML",
    "topics": []
   }
@@ -217,20 +217,20 @@
    ]
   },
   {
-   "name": "midnight-cli",
-   "url": "https://github.com/dim-ghub/midnight-cli",
-   "text": "The main control script for the Caelestia dotfiles",
+   "name": "Bibata-Caelestia",
+   "url": "https://github.com/dim-ghub/Bibata-Caelestia",
+   "text": "Open source, compact, and material designed cursor set.",
    "fork": true,
    "stars": 13,
    "language": "Python",
    "topics": []
   },
   {
-   "name": "Bibata-Caelestia",
-   "url": "https://github.com/dim-ghub/Bibata-Caelestia",
-   "text": "Open source, compact, and material designed cursor set.",
+   "name": "midnight-cli",
+   "url": "https://github.com/dim-ghub/midnight-cli",
+   "text": "The main control script for the Caelestia dotfiles",
    "fork": true,
-   "stars": 12,
+   "stars": 13,
    "language": "Python",
    "topics": []
   },
